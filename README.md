@@ -46,3 +46,11 @@ This aspect of AI programming focuses on choosing the right algorithm to reach a
 ## 3. Self Correction Process
 
 This aspect of AI programming is designed to continually fine-tune algorithms and ensure they provide the most accurate results possible.
+
+# Advantages and Disadvantages of AI
+
+Advantages  | Disadvantages
+------------- | -------------
+Very good for data heavy jobs  | Infra dependent hence expensive
+Saves time in computation | Requires technical expertise
+Consistent results | Heavily dependent on data nothing beyond that
