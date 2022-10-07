@@ -54,3 +54,35 @@ Advantages  | Disadvantages
 Very good for data heavy jobs  | Infra dependent hence expensive
 Saves time in computation | Requires technical expertise
 Consistent results | Heavily dependent on data nothing beyond that
+
+# Types of AI
+
+There are 4 types of artificial intelligence
+
+## 1. Reactive Machines
+
+* Very basic, perceives things as it's given to it.
+* A reactive machine canot store a memory and as a result cannot rely on past experiences to inform decision making in real-time.
+* Perceiving the world directly means that reative machines are designed to complete only a limited number of specialized duties.
+* Relable and has very specific usages.
+* An Example is Deep Blue, the IBM chess program that beat Garry Kasparov in the 1990s. Only on runtime, mives not based on past moves.
+
+## 2. Limited Memory
+
+* More complex and can store previous data and predictions.
+* Needs continuous training for updated patterns.
+* Six steps must be followed:
+    - Training data creation
+    - Machine Learning model build up.
+    - Predictions generation from ML model.
+    - External feedback for predictions.
+    - Storage of feedback
+    - Repeat
+
+## 3. Theory of Mind
+
+Only conceptual. Should be able to grasp and process the concept of "mind". Research on going.
+
+## 4. Self - Awareness
+
+Only conceptual. Actions on top of Theory of Mind. Mimics human brain. Research on going.
