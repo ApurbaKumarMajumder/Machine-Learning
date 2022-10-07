@@ -32,3 +32,17 @@ Data Reporting, Data Visualization, Business Intelligence, Decision Making. In t
 * Artificial Intelligence includes the simulation process of human intelligence by machine and special computer systems.
 * The examples of artificial intelligence include learning, reasoning and self-correction.
 * Applications of AI include speech recognition, expert systems, and image recognition and machine vision.
+
+# AI Programming focuses on three cognitive skills
+
+## 1. Learning Process
+
+This is for making the rules aka algorithm to learn the patterns or info form available data.
+
+## 2. Reasoning Process
+
+This aspect of AI programming focuses on choosing the right algorithm to reach a desired outcome.
+
+## 3. Self Correction Process
+
+This aspect of AI programming is designed to continually fine-tune algorithms and ensure they provide the most accurate results possible.
