@@ -6,23 +6,29 @@
 
 # The Data Science Lifecycle
 
-## Capture
+## 1. Capture
 Data Acquisition, Data Entry, Signal Reception, Data Extraction.
 
 This stage involves gathering raw structured and unstructured data.
 
-## Maintain
+## 2. Maintain
 Data Warehousing, Data Cleansing, Data Staging, Data Processing, Data Architecture.
 This stage covers taking the raw data and putting it in a form that can be used.
 
-## Process
+## 3. Process
 
 Data Mining, Clustering/Classification, Data Modeling, Data Summarization. This phase involves understanding the hidden information.
 
-## Analyze
+## 4. Analyze
 
 Exploratory/Confirmatory, Predictive Analysis, Regression, Text Mining, Qualitative Analysis. This stage involves performing the various analyses on the data.
 
-## Communicate
+## 5. Communicate
 
 Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysis in easyly readable forms such as charts, graphs and reports.
+
+# What is Artificial Intelligence
+
+* Artificial Intelligence includes the simulation process of human intelligence by machine and special computer systems.
+* The examples of artificial intelligence include learning, reasoning and self-correction.
+* Applications of AI include speech recognition, expert systems, and image recognition and machine vision.
